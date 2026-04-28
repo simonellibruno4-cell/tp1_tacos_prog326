@@ -1,0 +1,40 @@
+body {
+    background-color: #e3f2fd; /* Celeste muy clarito */
+    color: #0d47a1; /* Azul profundo */
+    font-family: 'Arial Black', sans-serif;
+}
+
+h1 {
+    background-color: #ffffff;
+    color: #0288d1;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    color: #fbc02d; /* Amarillo sol de la bandera */
+    font-size: 30px;
+}
+
+h3 {
+    color: #333;
+    font-size: 22px;
+}
+
+nav a {
+    color: #ffffff;
+    background-color: #0288d1;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+table {
+    background-color: white;
+    width: 80%;
+    font-size: 18px;
+}
+
+th {
+    background-color: #0288d1;
+    color: white;
+}
